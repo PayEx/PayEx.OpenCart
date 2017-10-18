@@ -2,23 +2,6 @@
 
 # modules
 
-## Contents
-
-```
-Prerequisites ................................. 1
-Installation .................................. 1
-Updating modules .............................. 3
-Configuration ................................. 3
-PayEx Bank debit .............................. 4
-PayEx factoring and part payment .............. 6
-Factoring Fee ................................. 7
-Get address ................................... 7
-PayEx Payments ................................ 9
-Generating an encryption key .................. 11
-How to translate the modules .................. 12
-How to activate Transaction Callback .......... 12
-FAQ ........................................... 13
-```
 
 ### Prerequisites
 
