@@ -1,4 +1,5 @@
 # PayEx.OpenCart
+NOTE: SUPPORT FOR THIS MODULE HAS BEEN DISCONTINUED. USE AT YOUR OWN PERIL.
 
 For installation instructions see the [Installation manual][1].
 
